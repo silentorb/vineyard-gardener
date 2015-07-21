@@ -1,0 +1,12 @@
+{
+  "name": "vineyard-gardener",
+  "version": "0.0.1",
+  "description": "Schema service for bloom-gardener",
+  "main": "gardener.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silentorb/vineyard-gardener.git"
+  },
+  "author": "Christopher W. Johnson",
+  "license": "MIT"
+}
